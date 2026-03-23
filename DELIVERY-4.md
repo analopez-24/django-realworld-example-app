@@ -140,5 +140,5 @@ django-realworld-example-app/
 ├── docker-compose.yml                  NUEVO — entregable principal
 ├── Dockerfile                          NUEVO — build de la imagen
 ├── .env.example                        NUEVO — plantilla de variables
-└── ADR-001-postgresql-migration.md     NUEVO — RFC estratégico
+└── ADR-DOCUMENT.md                     NUEVO — RFC estratégico
 ```
