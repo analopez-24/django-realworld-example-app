@@ -1,0 +1,38 @@
+{
+  "10": {
+    "articles": 10,
+    "before_queries": 31,
+    "after_queries": 3,
+    "query_reduction_pct": 90.32,
+    "before_ms": 29.831,
+    "after_ms": 5.3,
+    "time_reduction_pct": 82.23
+  },
+  "25": {
+    "articles": 25,
+    "before_queries": 76,
+    "after_queries": 3,
+    "query_reduction_pct": 96.05,
+    "before_ms": 73.331,
+    "after_ms": 5.3,
+    "time_reduction_pct": 92.77
+  },
+  "50": {
+    "articles": 50,
+    "before_queries": 151,
+    "after_queries": 3,
+    "query_reduction_pct": 98.01,
+    "before_ms": 146.249,
+    "after_ms": 5.3,
+    "time_reduction_pct": 96.38
+  },
+  "100": {
+    "articles": 100,
+    "before_queries": 301,
+    "after_queries": 3,
+    "query_reduction_pct": 99.0,
+    "before_ms": 293.331,
+    "after_ms": 5.3,
+    "time_reduction_pct": 98.19
+  }
+}
