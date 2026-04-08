@@ -5,7 +5,7 @@
 [![DRF](https://img.shields.io/badge/Django%20REST%20Framework-3.x-red)](https://www.django-rest-framework.org/)
 [![Docker](https://img.shields.io/badge/Docker-Contenedorizado-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/analopez-24/django-delivery-1/actions/workflows/ci.yml)
 [![Seguridad](https://img.shields.io/badge/Seguridad-Reforzada-green?logo=shield)](./docs/SECURITY.md)
 [![FinOps](https://img.shields.io/badge/FinOps-Optimizado-blueviolet)](./DELIVERY-5.md)
 
